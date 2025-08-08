@@ -1,0 +1,3 @@
+Sheetal is creating NotesApp
+[2025-08-08 11:02:36] Now i have added two more features i.e delete and edit notes
+[2025-08-08 11:04:18] mistake is edited
